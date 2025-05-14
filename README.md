@@ -5,7 +5,7 @@ Kubernetes Yamls and Helm values file for setting up ELK stack (Elasticsearch, F
 1. Clone the repository
 
 ```
-git clone https://github.com/shawon100/elasticsearch-logstash-kibana-kubernetes 
+git clone https://github.com/dheeraj7444/elasticsearch-logstash-kibana-kubernete.git
 ```
 
 2. Then add the helm repo
